@@ -5,13 +5,13 @@ from https://www.sounds-resource.com/wii/miichannel/sound/29581/, some beta soun
 <video src="https://github.com/user-attachments/assets/8c9aad59-3d92-4f04-a3b1-33b8af32f86f"></video>
 <p> if the vid doesnt load, a backup is hosted here: https://betawii.github.io/videos/nintendo.co.jp/MP4/Wii%20Channels/WiiMiiNakai(1).mp4</p>
 <br>
-<p>0:02 - the beta section pick sound is left behind, the sound is Sample_0019.wav</p>
+<p>0:02 - the beta change section sound is left behind, the sound is Sample_0019.wav</p>
 <br>
-<p>0:03 - the beta change page of items sound is left behind, the sound is Sample_0021.wav (2nd part is the same sound just pitched up a bit)</p>
-<br>
-<p>0:52 - the beta save & quit sound is Sample_0020.wav played at dif pitches </p>
+<p>0:03 - the beta change page of options (in a section) sound is left behind, the sound is Sample_0021.wav (2nd part is the same sound just pitched up a bit)</p>
 <br>
 <p>0:51 - the sound here doesnt seem to be in the files anymore :(</p>
+<br>
+<p>0:52 - the beta save & quit sound is Sample_0020.wav played at dif pitches </p>
 <br>
 <h2>video from GT.COM  more about the Mii Channel</h2>
 <video src="https://github.com/user-attachments/assets/37f29711-e50c-4b93-a2ba-9a8ddaba1552"></video>
