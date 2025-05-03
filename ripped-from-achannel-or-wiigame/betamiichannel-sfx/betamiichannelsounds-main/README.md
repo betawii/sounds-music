@@ -2,7 +2,7 @@
 from https://www.sounds-resource.com/wii/miichannel/sound/29581/, some beta sounds were left behind
 <br>
 <h2>video from https://www.nintendo.co.jp/wii/topics/wii_preview/presentation/10.html (5th box)</h2>
-<video src="https://github.com/user-attachments/assets/691d02f0-f9db-4b39-95f7-aae8efd236e4"></video>
+<video src="https://betawii.github.io/videos/nintendo.co.jp/MP4/Wii%20Channels/WiiMiiNakai(1).mp4"></video>
 <p> if the vid doesnt load, a backup is hosted here: https://betawii.github.io/videos/nintendo.co.jp/MP4/Wii%20Channels/WiiMiiNakai(1).mp4</p>
 <br>
 <p>0:02 - the beta section pick sound is left behind, the sound is Sample_0019.wav</p>
